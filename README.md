@@ -63,7 +63,7 @@ I focus on writing clean, optimized, and highly maintainable code that scales ef
   <a href="YOUR_LINKEDIN_URL" target="_blank">
     <img src="https://shields.io" />
   </a>
-  <a href="https://www.youtube.com/@N.Jeanpierre" target="_blank">
+  <a href="@NiyomugaboJeanpierre-z2t" target="_blank">
     <img src="https://shields.io" />
   </a>
 </p>
